@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://www.vinayakimpex.net/sitemap.xml
